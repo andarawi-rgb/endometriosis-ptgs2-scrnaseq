@@ -1,0 +1,7 @@
+scanpy
+anndata
+pandas
+numpy
+scipy
+harmonypy==2.0.0
+matplotlib
